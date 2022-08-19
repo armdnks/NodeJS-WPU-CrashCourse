@@ -4,7 +4,7 @@
 
 ## Projects
 
-| #   | Section          | Explanation  |
-| --- | ---------------- | ------------ |
-| 02  | [Architecture]() | [Markdown]() |
-| 07  | [Core Module ]() | [Markdown]() |
+| #   | Section                                                                                      |
+| --- | -------------------------------------------------------------------------------------------- |
+| 02  | [Architecture](https://github.com/armdnks/NodeJS-WPU-CrashCourse/tree/main/02-architecture)  |
+| 07  | [Core Modules ](https://github.com/armdnks/NodeJS-WPU-CrashCourse/tree/main/07-core-modules) |

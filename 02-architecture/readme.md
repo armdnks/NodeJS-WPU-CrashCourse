@@ -1,16 +1,16 @@
-## Section 2: Node.js Architecture
+# Section 2: Node.js Architecture
 
 > https://www.youtube.com/watch?v=wcQaspZE-20&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD&index=2
 
-### What is Node.js?
+## What is Node.js?
 
 > Node.js is a <b>runtime environment</b> for executing JavaScript code
 
-### Let's Code
+## Let's Code
 
-- create .js file
+- create app.js
 
-> 02-architecture.js
+> app.js
 
 ```js
 function getUserSync(id) {

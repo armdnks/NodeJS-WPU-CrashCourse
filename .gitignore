@@ -1,0 +1,9 @@
+# Private
+_private/
+
+# Node Modules
+node_modules/
+
+# Misc
+package-lock.json
+.DS_Store

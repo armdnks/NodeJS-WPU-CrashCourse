@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-wpu-crashcourse",
+  "version": "1.0.0",
+  "description": "Understanding how to use node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "keywords": [
+    "node",
+    "crash",
+    "course"
+  ],
+  "author": "armadan ks",
+  "license": "ISC"
+}

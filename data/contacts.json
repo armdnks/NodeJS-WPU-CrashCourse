@@ -1,4 +1,4 @@
 [
-  { "name": "John Doe", "phone": "08123456789" },
-  { "name": "Jane Doe", "phone": "08876543210" }
+  { "name": "John Doe", "email": "john@email.com", "phone": "123456789" },
+  { "name": "Jane Doe", "email": "jane@email.com", "phone": "987654321" }
 ]
